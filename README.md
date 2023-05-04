@@ -11,6 +11,9 @@ Here are some of the names of the projects that I have worked on in the past:
 3. The Gunpla Finds - A social media app curated for plastic model enthusiasts to post and upload their hunts based on the store and city they are in
 4. and many more projects can be found in this GitHub profile :> 
 
+Also here's my portfolio website, if you want to check it out :D 
+https://carlo-cortez-portfolio-cotrii.vercel.app/
+
 <!---
 Cotrii/Cotrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
