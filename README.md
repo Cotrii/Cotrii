@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Cotrii
-- 👀 I’m interested in web development, UX Design
 - 🌱 I’m currently learning JS, React and NextJS
-- 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me ... (https://www.linkedin.com/in/carlo-miguel-cortez-27454a1a7/)
+- 📫 Reach @ https://www.linkedin.com/in/carlo-miguel-cortez-27454a1a7/)
 - Here's my other account on GitHub! https://github.com/carlocortez
+- Here's my old portfolio website: carlo-cortez-portfolio-cotrii.vercel.app
 
 Here are some of the names of the projects that I have worked on in the past:
 1. Animal Chess - Also known as the jungle game, it is a traditional board game in China (created in Java)
@@ -12,7 +11,6 @@ Here are some of the names of the projects that I have worked on in the past:
 4. and many more projects can be found in this GitHub profile :> 
 
 Also here's my portfolio website, if you want to check it out :D 
-https://carlo-cortez-portfolio-cotrii.vercel.app/
 
 <!---
 Cotrii/Cotrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
