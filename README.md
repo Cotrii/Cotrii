@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cotrii
-- 🌱 I’m currently learning JS, React and NextJS
+- 🌱 I’m currently learning Data Analytics
 - 📫 Reach @ [LinkedIn](https://www.linkedin.com/in/carlo-miguel-cortez/)
-- Here's my other account on GitHub! https://github.com/carlocortez
-- Here's my old portfolio website: carlo-cortez-portfolio-cotrii.vercel.app
+- Alt account: https://github.com/carlocortez
+- Portfolio: https://cotrii.github.io/
 
 Here are some of the names of the projects that I have worked on in the past:
 1. Animal Chess - Also known as the jungle game, it is a traditional board game in China (created in Java)
