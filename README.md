@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cotrii
 - 🌱 I’m currently learning JS, React and NextJS
-- 📫 Reach @ https://www.linkedin.com/in/carlo-miguel-cortez-27454a1a7/)
+- 📫 Reach @ [LinkedIn](https://www.linkedin.com/in/carlo-miguel-cortez/)
 - Here's my other account on GitHub! https://github.com/carlocortez
 - Here's my old portfolio website: carlo-cortez-portfolio-cotrii.vercel.app
 
